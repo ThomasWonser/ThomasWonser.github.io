@@ -79,13 +79,27 @@ header, footer {
 
 /* Imported Typfaces */
 
-@font-face {}
-@font-face {}
+@font-face {
+    font-family: montserrat;
+    src: url(/fonts/montserrat-regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: josefinslab;
+    src: url(/fonts/josefinslab-regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
 
 /* Typography Styles */
 
-html {}
+html {
+    font-family: montserrat;
+}
+
+h1, h2 {}
 
 h1 {}
 
@@ -103,11 +117,9 @@ figcaption {}
 
 a {}
 
-a:link,
-a:visited {}
+a:link, a:visited {}
 
-a:focus,
-a:hover {}
+a:focus, a:hover {}
 
 
 /* List Styling */
@@ -125,8 +137,7 @@ nav {}
 
 nav a {}
 
-nav a:focus,
-nav a:hover {}
+nav a:focus, nav a:hover {}
 
 nav a:active {}
 
