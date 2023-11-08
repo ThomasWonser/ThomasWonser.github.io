@@ -114,21 +114,41 @@ h2 {
     font-size: 1.5rem;
 }
 
-h2 + p {}
+h2 + p {
+    text-indent: 1.5rem;
+}
 
-p {}
+p {
+    font-size: 0.75rem;
+    letter-spacing: 0.03125rem;
+    word-spacing: 0.125rem;
+}
 
-li {}
+li {
+    font-size: 0.75rem;
+    letter-spacing: 0.03125rem;
+    word-spacing: 0.125rem;
+}
 
-figcaption {}
+figcaption {
+    font-size: 0.75rem;
+    margin-bottom: 2rem;
+}
 
 /* Link Styling */
 
-a {}
+a {
+    outline: none;
+    
+}
 
-a:link, a:visited {}
+a:link, a:visited {
+    color: #33658A;
+}
 
-a:focus, a:hover {}
+a:focus, a:hover {
+    text-decoration: none;
+}
 
 
 /* List Styling */
