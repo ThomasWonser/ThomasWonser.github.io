@@ -100,21 +100,8 @@ li {
   li a {
     display: block;
     text-align: center;
-    padding-bottom: 4rem;
+    padding: 4rem;
     text-decoration: none;
     color: #333;
   }
 
-h2 {
-
-}
-
-h3 {
-
-}
-
-aside {
-    margin-left:0;
-    align-items: right;
-
-}
