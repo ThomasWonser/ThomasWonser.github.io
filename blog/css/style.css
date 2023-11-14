@@ -88,6 +88,7 @@ nav {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    border-bottom: .0625rem solid #333;
     
 }
 
