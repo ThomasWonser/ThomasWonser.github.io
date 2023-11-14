@@ -102,4 +102,7 @@ li a {
     text-decoration: none;
     color: #333;
 }
-  
+
+.subsection {
+    align-items: center;
+}
