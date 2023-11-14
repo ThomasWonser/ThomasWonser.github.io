@@ -64,7 +64,7 @@ body {
 
 header {
     border-bottom: .0625rem solid #333;
-    margin-bottom:2rem;
+    margin-bottom:2.5rem;
     padding-bottom:3.5rem;
 }
 
@@ -84,7 +84,7 @@ h1 span {
 }
 
 nav {
-    padding-bottom: 2rem;
+    padding-bottom: 2.5rem;
     border-bottom: .0625rem solid #333;
 }
 
