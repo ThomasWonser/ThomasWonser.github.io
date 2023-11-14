@@ -94,6 +94,7 @@ nav {
 
 li {
     float: left;
+    font: weight 2rem;;
   }
   
   li a {
