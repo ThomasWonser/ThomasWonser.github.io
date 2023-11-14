@@ -84,11 +84,11 @@ h1 span {
 }
 
 nav {
-    border-bottom: .0625rem solid #333;
-    margin-bottom: 0;
-    padding-bottom:2rem;
-    display: inline-block;
     list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
     
 }
 
