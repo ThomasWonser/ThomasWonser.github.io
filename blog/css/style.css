@@ -91,6 +91,9 @@ nav {
 li {
     float: left;
     text-align: center;
-  }
+}
 
+li a {
+    display: block;
+}
   
