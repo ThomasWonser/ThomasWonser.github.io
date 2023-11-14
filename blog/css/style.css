@@ -83,12 +83,16 @@ h1 span {
     color: #fff;
 }
 
+nav {
+    border-bottom: .0625rem solid #333;
+}
+
+
 ul {
     list-style-type: none;
     margin: 0rem;
     padding-bottom: 2.5rem;
-    border-bottom: .0625rem solid #333;}
-
+}
 li {
     float: left;
 }
