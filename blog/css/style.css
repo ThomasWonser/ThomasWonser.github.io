@@ -80,6 +80,7 @@ h1 {
 
 h1 span {
     background-color:#8C2B3F;
+    background: round;
     color: #fff;
 }
 
@@ -91,4 +92,8 @@ nav {
 li {
     float: left;
   }
+
+li a {
+    text-align: center;
+}
   
