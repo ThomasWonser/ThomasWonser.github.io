@@ -63,7 +63,6 @@ body {
 }
 
 header {
-    border-bottom: .0625rem solid #333;
     margin-bottom:2.0rem;
     padding-bottom:2.25rem;
 }
@@ -85,13 +84,14 @@ h1 span {
 
 nav {
     border-bottom: .0625rem solid #333;
+
 }
 
 
 ul {
     list-style-type: none;
     margin: 0rem;
-    padding-bottom: 2.5rem;
+    padding: 2.5rem;
     border-top: .0625rem solid #333;
 }
 
