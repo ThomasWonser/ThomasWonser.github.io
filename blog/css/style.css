@@ -105,5 +105,6 @@ li a {
 
 .subsection {
     float: left;
+    display: inline
 
 }
