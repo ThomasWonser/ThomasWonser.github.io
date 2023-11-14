@@ -63,7 +63,7 @@ body {
 }
 
 header {
-    border-bottom: .0625rem solid #333;
+   
     margin-bottom:2.5rem;
     padding-bottom:2rem;
 }
@@ -87,7 +87,7 @@ ul {
     list-style-type: none;
     margin: 0rem;
     padding-bottom: 2.5rem;
-    border-bottom: 0.0625rem solid #333;
+    border: 0.0625rem solid #333;
 }
 
 li {
