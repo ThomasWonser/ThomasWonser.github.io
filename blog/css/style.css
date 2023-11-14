@@ -85,8 +85,8 @@ h1 span {
 
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 4rem;
+    padding: 4rem;
     border-bottom: .0625rem solid #333;
 }
 
