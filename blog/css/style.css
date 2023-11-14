@@ -90,12 +90,12 @@ nav {
 
 li {
     float: left;
-    text-align: center;
 }
 
 li a {
     display: block;
     padding: 1rem;
+    text-align: center;
     text-decoration: none;
 }
   
