@@ -131,8 +131,8 @@ figcaption {
     font-size:.75rem;
     padding:.5rem;
     margin:0;
-    background-color:rgba(219, 250, 189, 0.692), 0.904;
-    color:#B1BED3;
+    background-color:rgb(149, 235, 149), 128;
+    color:#333;
 }
 
 aside {
