@@ -127,6 +127,14 @@ li a {
     padding: 4px;
 }
 
+figcaption {
+    font-size:.75rem;
+    padding:.5rem;
+    margin:0;
+    background-color:#242F40;
+    color:#B1BED3;
+}
+
 aside {
     display: inline;
     float: right;
