@@ -64,7 +64,7 @@ body {
 
 header {
     border-bottom: .0625rem solid #333;
-    margin-bottom:2.5rem;
+    margin-bottom:2.25rem;
     padding-bottom:2rem;
 }
 
@@ -96,7 +96,7 @@ li {
 li a {
     font-size:1.25rem;
     display: inline;
-    padding: 1rem;
+    padding: 1.25rem;
     text-align: center;
     text-decoration: none;
     color: #333;
