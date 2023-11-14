@@ -118,6 +118,7 @@ li a {
 }
 
 aside {
+    display: inline;
     float: right;
     vertical-align: right;
 }
