@@ -121,6 +121,7 @@ li a {
 }
 
 .subsection {
+    display:flex;
     float: left;
     width: 33.33%;
     padding: 4px;
