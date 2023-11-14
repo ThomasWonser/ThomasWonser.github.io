@@ -100,7 +100,7 @@ li {
   li a {
     display: block;
     text-align: center;
-    padding: 2rem;
+    padding-bottom: 4rem;
     text-decoration: none;
     color: #333;
   }
