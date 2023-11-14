@@ -84,6 +84,7 @@ h1 span {
 
 nav {
     border-bottom: .0625rem solid #333;
+    padding-top: 1rem;
 
 }
 
@@ -91,7 +92,7 @@ nav {
 ul {
     list-style-type: none;
     margin: 0rem;
-    padding: 2rem;
+    padding: 2.5rem;
     border-top: .0625rem solid #333;
 }
 
