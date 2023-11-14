@@ -92,7 +92,9 @@ ul {
     list-style-type: none;
     margin: 0rem;
     padding-bottom: 2.5rem;
+    border-top: .0625rem solid #333;
 }
+
 li {
     float: left;
 }
