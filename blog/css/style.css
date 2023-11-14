@@ -84,6 +84,7 @@ h1 span {
 }
 
 nav {
+    list-style-type: none;
     padding-bottom: 2.5rem;
     border-bottom: .0625rem solid #333;
 }
