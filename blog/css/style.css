@@ -85,8 +85,8 @@ h1 span {
 
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 2;
+    margin: 2rem;
+    padding-bottom: 6rem;
     border-bottom: .0625rem solid #333;
 }
 
@@ -96,7 +96,7 @@ li {
 
 li a {
     display: block;
-    padding: 2rem;
+    padding: 2.5rem;
     text-align: center;
     text-decoration: none;
 }
