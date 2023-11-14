@@ -85,7 +85,7 @@ h1 span {
 
 nav {
     list-style-type: none;
-    margin: 0.25rem;
+    margin-bottom: 0.25rem;
     padding: 0.25rem;
     overflow: hidden;
     border-bottom: .0625rem solid #333;
