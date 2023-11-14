@@ -104,5 +104,6 @@ li a {
 }
 
 .subsection {
-    align-items: center;
+    float: left;
+
 }
