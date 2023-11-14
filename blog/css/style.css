@@ -95,5 +95,7 @@ li {
 
 li a {
     display: block;
+    padding: 1rem;
+    text-decoration: none;
 }
   
