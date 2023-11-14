@@ -96,6 +96,7 @@ ul {
     margin: 0rem;
     padding: 2.5rem;
     border-top: .0625rem solid #333;
+    
 }
 
 li {
@@ -116,10 +117,12 @@ li a {
     float:left;
 }
 
+aside {
+    float: right;
+    vertical-align: right;
+}
 
 .subsection {
     float: left;
     display: block
-    
-
 }
