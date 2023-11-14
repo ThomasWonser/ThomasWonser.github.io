@@ -84,10 +84,6 @@ h1 span {
 }
 
 nav {
-    list-style-type: none;
-    padding: 0.125rem;
-    overflow: hidden;
-    border-bottom: .0625rem solid #333;
     
 }
 
@@ -95,11 +91,3 @@ li {
     float: left;
   }
   
-  li a {
-    display: inline-block;
-    text-align: center;
-    padding: 20px;
-    text-decoration: none;
-    color: #333;
-  }
-
