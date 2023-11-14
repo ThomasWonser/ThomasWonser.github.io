@@ -117,13 +117,14 @@ li a {
     float:left;
 }
 
+.subsection {
+    float: left;
+    width: 33.33%;
+    padding: 4px;
+}
+
 aside {
     display: inline;
     float: right;
     vertical-align: right;
-}
-
-.subsection {
-    float: left;
-    display: block
 }
