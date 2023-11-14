@@ -93,12 +93,12 @@ nav {
 }
 
 li {
-    float: center;
+    float: left;
   }
   
   li a {
     display: block;
-    color: white;
+    color: #fff;
     text-align: center;
     padding: 16px;
     text-decoration: none;
