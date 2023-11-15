@@ -141,6 +141,11 @@ aside {
     vertical-align: right;
 }
 
+.expand {
+    text-decoration: none;
+    border-bottom: 0.0625px solid #333;
+}
+
 /* This section is for operations involving both the footer componenets the copyright, and attribution */
 
 footer {
