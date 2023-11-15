@@ -139,6 +139,7 @@ aside {
     display: inline;
     float: right;
     vertical-align: right;
+    overflow: auto;
 }
 
 .expand {
@@ -152,7 +153,7 @@ aside {
 
 footer {
     clear:both;
-    overflow:auto;
+    overflow: auto;
     margin:3% 2%;
 }
 
