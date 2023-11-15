@@ -150,5 +150,6 @@ footer {
 
 footer a {
     font-size:.75rem;
-    color:black;
+    color:grey;
+    text-decoration: none;
 }
