@@ -116,6 +116,11 @@ li a {
 }
 /* End of the navigation section */
 
+time {
+    float: left;
+    position: absolute;
+}
+
 .article-image {
     float:left;
 }
@@ -139,7 +144,6 @@ aside {
     display: inline;
     float: right;
     vertical-align: right;
-    overflow: auto;
 }
 
 .expand {
