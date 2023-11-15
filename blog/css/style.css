@@ -153,3 +153,13 @@ footer a {
     color:grey;
     text-decoration: none;
 }
+
+.copyright {
+    font-size:.75rem;
+    text-align:left;
+}
+
+.attribution {
+    font-size:.75rem;
+    text-align:right;
+}
