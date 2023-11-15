@@ -141,11 +141,12 @@ aside {
     vertical-align: right;
 }
 
+/* This section is for operations involving both the footer componenets the copyright, and attribution */
+
 footer {
     clear:both;
     overflow:auto;
     margin:3% 2%;
-    border-top: 1px solid #333;
 }
 
 footer a {
