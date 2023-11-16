@@ -60,8 +60,9 @@ html {
 }
 
 body {
-    max-width: 800px;
-    margin: 0 auto;
+    margin: 0rem auto;
+    width:100%;
+    min-width:56.25rem;
 }
 
 /* Tools for the header of the page with the highlighted middle word */
@@ -87,6 +88,7 @@ h1 span {
 }
 
 /*This section is the controls for navigation bar at the top of the screen*/
+
 nav {
     padding-bottom: 1.25rem;
     border-top: .0625rem solid #333;
@@ -114,17 +116,6 @@ li a {
     color: #333;
 }
 /* End of the navigation section */
-
-h2, .main-section, .article-image {
-    padding-left: 0;
-    margin-top: 0.25rem;
-}
-
-button {
-    overflow: auto;
-}
-
-
 
 time {
     float: left;
@@ -164,7 +155,7 @@ aside {
     
 }
 
-/* This section is for operations involving both the footer componenets the copyright, and attribution */
+/* DONE This section is for operations involving both the footer componenets the copyright, and attribution */
 
 footer {
     clear:both;
