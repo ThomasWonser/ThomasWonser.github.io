@@ -116,7 +116,7 @@ li a {
 }
 /* End of the navigation section */
 
-h2, .main-section {
+h2, .main-section, .article-image {
     float: left;
 }
 
@@ -129,6 +129,8 @@ time {
 }
 
 .article-image {
+    padding-left: 0;
+    margin-top: 0.25rem;
     float:left;
 }
 
