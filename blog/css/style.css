@@ -59,7 +59,7 @@ html {
     background-color: #FFFFFF;
 }
 
-body {
+body, p {
     margin: 0rem auto;
     width:100%;
     min-width:56.25rem;
