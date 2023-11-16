@@ -60,9 +60,8 @@ html {
 }
 
 body {
-    margin: 0rem auto;
-    width:100%;
-    min-width:56.25rem;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 /* Tools for the header of the page with the highlighted middle word */
