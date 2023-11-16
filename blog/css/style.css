@@ -59,7 +59,7 @@ html {
     background-color: #FFFFFF;
 }
 
-body, p {
+body {
     margin: 0rem auto;
     width:100%;
     min-width:56.25rem;
@@ -116,21 +116,10 @@ li a {
     color: #333;
 }
 /* End of the navigation section */
-/*
+
 h2 {
-    text-align: center;
+    text-align: left;
 }
-
-p {
-    font-size: 1rem;
-    line-height: 1.5;
-  }
-
-time {
-    float: left;
-    position: absolute;
-}
-
 .article-image {
     float: left;
     
@@ -163,7 +152,7 @@ aside {
     padding-bottom: 1rem;
     
 }
-*/
+
 /* DONE This section is for operations involving both the footer componenets the copyright, and attribution */
 
 footer {
