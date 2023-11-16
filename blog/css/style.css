@@ -90,6 +90,7 @@ h1 span {
 /*This section is the controls for navigation bar at the top of the screen*/
 nav {
     padding-bottom: 1.25rem;
+    border-top:0.0625rem solid #333;
     border-bottom: .0625rem solid #333;
 }
 
@@ -98,7 +99,6 @@ ul {
     list-style-type: none;
     margin: 0rem;
     padding: 2.5rem;
-    border-top: .0625rem solid #333;
     
 }
 
