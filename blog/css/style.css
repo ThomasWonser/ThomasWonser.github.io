@@ -118,6 +118,7 @@ li a {
 /* End of the navigation section */
 
 h2 {
+    float: left;
     text-align: left;
 }
 .article-image {
