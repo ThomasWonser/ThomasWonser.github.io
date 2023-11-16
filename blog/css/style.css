@@ -117,6 +117,12 @@ li a {
 }
 /* End of the navigation section */
 
+
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
 time {
     float: left;
     position: absolute;
