@@ -117,6 +117,9 @@ li a {
 }
 /* End of the navigation section */
 
+h2 {
+    text-align: center;
+}
 
 p {
     font-size: 1rem;
