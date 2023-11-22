@@ -215,7 +215,7 @@ li {
 
 li a {
     font-size:1.25rem;
-    display: inline-block;
+    display: inline;
     padding: 1.25rem;
     text-align: center;
     color: #333;
