@@ -165,7 +165,7 @@ aside {
     display:flex;
 }
 
-/*
+
 figcaption {
     font-size:.75rem;
     padding:.5rem;
@@ -182,7 +182,7 @@ figcaption {
 }
 
 
- FOOTER, COPYRIGHT, AND ATTRIBUTION SECTION 
+/*FOOTER, COPYRIGHT, AND ATTRIBUTION SECTION*/ 
 
 footer {
     clear:both;
@@ -205,4 +205,3 @@ footer a {
     font-size:.75rem;
     text-align:right;
 }
-*/
