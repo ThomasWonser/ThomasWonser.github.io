@@ -152,6 +152,11 @@ h2 {
     grid-gap: 1rem;
 }
 
+article {
+    grid-column: 1 / 2;
+    grid-row: 1;
+}
+
 .subsection {
     display:flex;
     float: left;
