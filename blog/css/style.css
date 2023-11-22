@@ -102,8 +102,9 @@ h1 {
     background-color: darkred;
     box-shadow: 5px 5px 4px -1px #888;
 }
-/*
+
 button {
+    font-size: 1.5rem;
     display: inline-block;
     font-family: ultra, Georgia, serif;
     border: 1px solid black;
