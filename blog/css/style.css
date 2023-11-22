@@ -160,9 +160,6 @@ article {
 aside {
     grid-column: 2 / 3;
     grid-row: 1;
-    display: inline;
-    float: right;
-    vertical-align: right;
 }
 
 .subsection {
