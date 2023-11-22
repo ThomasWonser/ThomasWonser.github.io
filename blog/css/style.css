@@ -85,7 +85,7 @@ body {
 
 
 /* LAYOUT */
-
+/*
 
 
 header {
@@ -108,7 +108,7 @@ h1 span {
     color: #fff;
 }
 
-/*This section is the controls for navigation bar at the top of the screen*/
+This section is the controls for navigation bar at the top of the screen
 
 nav {
     padding-bottom: 1.25rem;
@@ -136,6 +136,7 @@ li a {
     text-decoration: none;
     color: #333;
 }
+*/
 /* End of the navigation section */
 
 h2 {
