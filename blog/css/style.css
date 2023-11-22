@@ -85,7 +85,40 @@ body {
 
 
 /* LAYOUT */
-/*
+
+.mainsection {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    grid-gap: 1rem;
+}
+
+article {
+    grid-column: 1 / 2;
+    grid-row: 1;
+}
+
+aside {
+    grid-column: 2 / 3;
+    grid-row: 1;
+}
+
+.subsection {
+    display:flex;
+}
+
+/* IMAGES AND FIGURES */
+
+img {
+    width: 100%;
+}
+
+figure {
+    margin: 0px;
+}
+
+.article-image {
+    float: left;
+}
 
 
 header {
@@ -108,14 +141,13 @@ h1 span {
     color: #fff;
 }
 
-This section is the controls for navigation bar at the top of the screen
+/*This section is the controls for navigation bar at the top of the screen*/
 
 nav {
     padding-bottom: 1.25rem;
     border-top: .0625rem solid #333;
     border-bottom: .0625rem solid #333;
 }
-
 
 ul {
     list-style-type: none;
@@ -136,36 +168,12 @@ li a {
     text-decoration: none;
     color: #333;
 }
-*/
+
 /* End of the navigation section */
 
 h2 {
     text-align: left;
 }
-.article-image {
-    float: left;
-}
-
-.mainsection {
-    display: grid;
-    grid-template-columns: 4fr 1fr;
-    grid-gap: 1rem;
-}
-
-article {
-    grid-column: 1 / 2;
-    grid-row: 1;
-}
-
-aside {
-    grid-column: 2 / 3;
-    grid-row: 1;
-}
-
-.subsection {
-    display:flex;
-}
-
 
 figcaption {
     font-size:.75rem;
@@ -181,7 +189,6 @@ figcaption {
     padding-bottom: 1rem;
     
 }
-
 
 /*FOOTER, COPYRIGHT, AND ATTRIBUTION SECTION*/ 
 
