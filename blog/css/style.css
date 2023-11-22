@@ -124,8 +124,12 @@ figure {
 
 .subsection figure {
     margin: 0px 0.25rem;
+    background-color: #F2E4C9;
 }
 
+.subsection figure figcaption {
+    padding: 0.5rem 0.5rem;
+}
 
 header {
     margin-bottom:2.0rem;
