@@ -213,14 +213,6 @@ li {
     float: left;
 }
 
-li a {
-    font-size:1.25rem;
-    display: inline;
-    padding: 1.25rem;
-    text-align: center;
-    color: #333;
-}
-
 /* FOOTER, COPYRIGHT, AND ATTRIBUTION SECTION */ 
 
 footer {
