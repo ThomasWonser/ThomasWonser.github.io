@@ -122,6 +122,10 @@ figure {
     margin-right: 1rem;
 }
 
+.subsection {
+    margin: 1rem 0rem;
+}
+
 .subsection figure {
     margin: 0px 0.25rem;
     background-color: #F2E4C9;
