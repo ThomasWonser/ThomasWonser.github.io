@@ -150,6 +150,11 @@ aside {
     padding-left: 0.75rem;
 }
 
+aside p {
+    border-bottom: 1px solid black;
+    padding-bottom: 0.5rem;
+}
+
 .subsection {
     display:flex;
 }
