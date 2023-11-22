@@ -121,7 +121,7 @@ figure {
     float: left;
 }
 
-
+/*
 header {
     margin-bottom:2.0rem;
     padding:2rem;
@@ -142,7 +142,6 @@ h1 span {
     color: #fff;
 }
 
-/*This section is the controls for navigation bar at the top of the screen*/
 
 nav {
     padding-bottom: 1.25rem;
@@ -170,7 +169,7 @@ li a {
     color: #333;
 }
 
-/* End of the navigation section */
+
 
 h2 {
     text-align: left;
