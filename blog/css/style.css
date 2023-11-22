@@ -188,7 +188,11 @@ figure {
     padding: 0.5rem 0.5rem;
 }
 
+/* LINKS AND NAVIGATION*/
 
+a {
+    text-decoration: none;
+}
 
 
 ul {
@@ -207,7 +211,6 @@ li a {
     display: inline;
     padding: 1.25rem;
     text-align: center;
-    text-decoration: none;
     color: #333;
 }
 
@@ -223,7 +226,6 @@ footer {
 footer a {
     font-size:.75rem;
     color:grey;
-    text-decoration: none;
 }
 
 .copyright {
