@@ -190,7 +190,7 @@ figure {
 }
 
 .expand {
-    text-align: left;
+    float: left;
 }
 
 /* LINKS AND NAVIGATION*/
