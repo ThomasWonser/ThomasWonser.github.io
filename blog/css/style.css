@@ -147,6 +147,7 @@ aside {
     grid-column: 2/3;
     grid-row: 1;
     border-left: 1px solid black;
+    padding-left: 0.75rem;
 }
 
 .subsection {
