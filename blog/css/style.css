@@ -93,14 +93,16 @@ h1 {
     margin:0;
 }
 
-h1 span {
-    background-color:#8C2B3F;
-    color: #fff;
-}
-
 .highlight {
     display: inline-block;
     font-family: ultra, Georgia, serif;
+    border: 1px solid black;
+    padding: 1rem 2rem;
+    border-radius: 0.3rem;
+    border-top-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    color: #F2E4C9;
+    background-color: rgba(255, 0, 0, 0.466);
 }
 
 /* GENERAL SETUP AND DEFAULTS */
