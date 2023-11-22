@@ -115,7 +115,7 @@ html {
 body {
     margin: 1.5rem auto;
     width: 90%;
-    min-width: 56.25rem;
+    min-width:56.25rem;
 }
 
 
@@ -132,7 +132,7 @@ nav {
     padding-bottom: 1rem;
 }
 
-.mainsection {
+.main-section {
     display: grid;
     grid-template-columns: 4fr 1fr;
     grid-gap: 1rem;
