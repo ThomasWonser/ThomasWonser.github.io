@@ -49,7 +49,7 @@
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
 
-/* IMPORTED FONTS 
+/* IMPORTED FONTS */
 
 @font-face {
     font-family: "ultra";
@@ -64,7 +64,7 @@
     font-style: normal;
 }
 
-TYPOGRAHPHY */
+/* TYPOGRAHPHY */
 
 
 /* GENERAL SETUP AND DEFAULTS */
@@ -121,7 +121,7 @@ figure {
     float: left;
 }
 
-/*
+
 header {
     margin-bottom:2.0rem;
     padding:2rem;
@@ -169,8 +169,6 @@ li a {
     color: #333;
 }
 
-
-
 h2 {
     text-align: left;
 }
@@ -190,7 +188,7 @@ figcaption {
     
 }
 
-FOOTER, COPYRIGHT, AND ATTRIBUTION SECTION 
+/* FOOTER, COPYRIGHT, AND ATTRIBUTION SECTION */ 
 
 footer {
     clear:both;
@@ -213,4 +211,3 @@ footer a {
     font-size:.75rem;
     text-align:right;
 }
-*/
