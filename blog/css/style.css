@@ -88,9 +88,7 @@ h1 {
     transform: rotate(-5deg);
     text-align: center;
     color: #333;
-    font-family: Lato, sans-serif;
     text-shadow:2px 2px 3px #333;      
-    margin:0;
 }
 
 .highlight {
