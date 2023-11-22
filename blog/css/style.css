@@ -103,6 +103,16 @@ h1 {
     box-shadow: 5px 5px 4px -1px #888;
 }
 
+button {
+    display: inline-block;
+    font-family: ultra, Georgia, serif;
+    border: 1px solid black;
+    border-radius: 1rem;
+    color: white;
+    background-color: darkblue;
+    box-shadow: 5px 5px 4px -1px #888;
+}
+
 /* GENERAL SETUP AND DEFAULTS */
 
 * {
@@ -189,8 +199,7 @@ figure {
     padding: 0.5rem 0.5rem;
 }
 
-.expand {
-    width: 2px;    
+.expand {    
 }
 
 /* LINKS AND NAVIGATION*/
