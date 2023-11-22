@@ -49,7 +49,44 @@
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
 
-/* Tools for the header of the page with the highlighted middle word */
+/* IMPORTED FONTS */
+
+@font-face {
+    font-family: "ultra";
+    src: url('../fonts/serif/ultra-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "roboto";
+    src: url('../fonts/sans-serif/roboto-regular.ttf') format('trutype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* TYPOGRAHPHY */
+
+
+/* GENERAL SETUP AND DEFAULTS */
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    margin: 1.5rem auto;
+    width: 90%;
+    min-width: 56.25rem;
+}
+
+
+/* LAYOUT */
+
+
 
 header {
     margin-bottom:2.0rem;
@@ -137,7 +174,7 @@ aside {
     
 }
 
-/* DONE This section is for operations involving both the footer componenets the copyright, and attribution */
+/* FOOTER, COPYRIGHT, AND ATTRIBUTION SECTION */
 
 footer {
     clear:both;
