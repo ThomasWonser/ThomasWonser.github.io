@@ -84,12 +84,8 @@ h1, h2, h3, h4 {
 
 h1 {
     font-size: 3rem;
-    font-weight:100;
-    text-align: center;
-    color: #333;
-    font-family: Lato, sans-serif;
-    text-shadow:2px 2px 3px #333;      
-    margin:0;
+    letter-spacing: 0.25rem;
+    transform: rotate(-5deg);
 }
 
 .highlight {
