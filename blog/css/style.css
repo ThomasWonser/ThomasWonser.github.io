@@ -119,6 +119,11 @@ figure {
 .article-image {
     width: 33%;
     float: left;
+    margin-right: 1rem;
+}
+
+.subsection figure {
+    margin: 0px 0.25rem;
 }
 
 
