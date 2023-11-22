@@ -101,6 +101,7 @@ h1 {
     color: white;
     background-color: darkred;
     box-shadow: 5px 5px 4px -1px #888;
+    font-style: bold;
 }
 
 time {
