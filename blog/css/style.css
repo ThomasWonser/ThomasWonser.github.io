@@ -194,6 +194,11 @@ a {
     text-decoration: none;
 }
 
+nav a {
+    display: inline-block;
+    padding: 1.25rem 2rem;
+    font-size: 1.5rem;
+}
 
 ul {
     list-style-type: none;
