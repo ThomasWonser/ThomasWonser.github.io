@@ -108,7 +108,7 @@ button {
     display: inline-block;
     font-family: ultra, Georgia, serif;
     border: 1px solid black;
-    border-radius: 1rem;
+    border-radius: 0.5rem;
     color: white;
     background-color: darkblue;
     box-shadow: 5px 5px 4px -1px #888;
