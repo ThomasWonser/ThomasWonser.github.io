@@ -128,8 +128,8 @@ header {
 nav {
     border-top: 1px solid black;
     border-bottom: 1px solid black;
-    float: left;
-
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 .mainsection {
@@ -203,12 +203,11 @@ nav a {
 }
 
 
-/*
+
 ul {
     list-style-type: none;
     margin: 0rem;
-    padding: 2.5rem;
-    
+    padding: 2.5rem;    
 }
 
 li {
@@ -222,7 +221,6 @@ li a {
     text-align: center;
     color: #333;
 }
-*/
 
 /* FOOTER, COPYRIGHT, AND ATTRIBUTION SECTION */ 
 
