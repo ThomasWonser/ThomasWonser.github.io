@@ -75,6 +75,7 @@
 
 p {
     font-family: roboto, Arial, sans-serif;
+    white-space: 1rem;
 }
 
 h1, h2, h3, h4 {
@@ -221,6 +222,7 @@ footer a {
 }
 
 .attribution {
+    float: right;
     font-size:.75rem;
     text-align:right;
 }
