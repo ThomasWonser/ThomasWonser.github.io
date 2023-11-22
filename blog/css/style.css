@@ -88,6 +88,7 @@ h1 {
     letter-spacing: 0.25rem;
     transform: rotate(-5deg);
     text-align: center;
+    padding-bottom: 1rem;
 }
 
 .highlight {
@@ -101,7 +102,6 @@ h1 {
     color: white;
     background-color: darkred;
     box-shadow: 5px 5px 4px -1px #888;
-    font-style: bold;
 }
 
 time {
