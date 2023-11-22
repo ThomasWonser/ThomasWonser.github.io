@@ -190,7 +190,7 @@ figure {
 }
 
 .expand {
-    float: left;
+    width: 2px;    
 }
 
 /* LINKS AND NAVIGATION*/
