@@ -99,6 +99,7 @@ h1 span {
 }
 
 .highlight {
+    display: inline-block;
     font-family: ultra, Georgia, serif;
 }
 
