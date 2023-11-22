@@ -146,6 +146,12 @@ h2 {
     
 }
 
+.mainsection {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    grid-gap: 1rem;
+}
+
 .subsection {
     display:flex;
     float: left;
