@@ -74,15 +74,15 @@
 /* TYPOGRAHPHY */
 
 p {
-    font-family: roboto;
+    font-family: roboto, Arial, sans-serif;
 }
 
 h1, h2, h3, h4 {
-    font-family: lato;
+    font-family: lato, Helvetica, sans-serif;
 }
 
 .highlight {
-    font-family: ultra;
+    font-family: ultra, Georgia, serif;
 }
 
 /* GENERAL SETUP AND DEFAULTS */
