@@ -86,6 +86,16 @@ h1 {
     font-size: 3rem;
     letter-spacing: 0.25rem;
     transform: rotate(-5deg);
+    text-align: center;
+    color: #333;
+    font-family: Lato, sans-serif;
+    text-shadow:2px 2px 3px #333;      
+    margin:0;
+}
+
+h1 span {
+    background-color:#8C2B3F;
+    color: #fff;
 }
 
 .highlight {
@@ -110,6 +120,17 @@ body {
 
 
 /* LAYOUT */
+
+header {
+    padding:0.5rem 0rem 1rem 0rem;
+}
+
+nav {
+    margin-top: 3rem;
+    padding-bottom: 1.25rem;
+    border-top: .0625rem solid #333;
+    border-bottom: .0625rem solid #333;
+}
 
 .mainsection {
     display: grid;
@@ -160,32 +181,8 @@ figure {
     padding: 0.5rem 0.5rem;
 }
 
-header {
-    margin-bottom:2.0rem;
-    padding:2rem;
-}
-
-h1 {
-    font-size: 6rem;
-    font-weight:100;
-    text-align: center;
-    color: #333;
-    font-family: Lato, sans-serif;
-    text-shadow:2px 2px 3px #333;      
-    margin:0;
-}
-
-h1 span {
-    background-color:#8C2B3F;
-    color: #fff;
-}
 
 
-nav {
-    padding-bottom: 1.25rem;
-    border-top: .0625rem solid #333;
-    border-bottom: .0625rem solid #333;
-}
 
 ul {
     list-style-type: none;
