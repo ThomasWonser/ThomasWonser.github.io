@@ -82,6 +82,16 @@ h1, h2, h3, h4 {
     letter-spacing: 0.0325rem;
 }
 
+h1 {
+    font-size: 3rem;
+    font-weight:100;
+    text-align: center;
+    color: #333;
+    font-family: Lato, sans-serif;
+    text-shadow:2px 2px 3px #333;      
+    margin:0;
+}
+
 .highlight {
     font-family: ultra, Georgia, serif;
 }
