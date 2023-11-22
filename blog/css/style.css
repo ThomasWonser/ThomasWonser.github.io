@@ -137,15 +137,14 @@ li a {
     color: #333;
 }
 /* End of the navigation section */
-
+/*
 h2 {
     text-align: left;
 }
 .article-image {
     float: left;
-    
 }
-
+*/
 .mainsection {
     display: grid;
     grid-template-columns: 4fr 1fr;
