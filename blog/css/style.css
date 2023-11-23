@@ -194,6 +194,7 @@ figure {
 }
 
 .subsection {
+    width: absolute;
     margin: 1rem 0rem;
 }
 
@@ -206,7 +207,8 @@ figure {
     padding: 0.5rem 0.5rem;
 }
 
-.expand {    
+.expand {
+
 }
 
 /* LINKS AND NAVIGATION*/
