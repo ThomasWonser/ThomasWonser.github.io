@@ -181,6 +181,7 @@ aside p {
 
 img {
     width: 100%;
+    size: absolute;
 }
 
 figure {
@@ -194,7 +195,6 @@ figure {
 }
 
 .subsection {
-    width: absolute;
     margin: 1rem 0rem;
 }
 
