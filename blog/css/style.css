@@ -104,6 +104,10 @@ h1 {
     box-shadow: 5px 5px 4px -1px #888;
 }
 
+main, aside {
+    padding-top: 2rem;
+}
+
 time {
     font-style: italic;
 }
