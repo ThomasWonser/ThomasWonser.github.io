@@ -108,12 +108,6 @@ main {
     padding-top: 2rem;
 }
 
-body {
-    min-width:50rem;
-    max-width:75rem;
-    margin:0 auto;
-}
-
 aside {
 
 }
@@ -146,8 +140,13 @@ html {
 
 body {
     margin: 1.5rem auto;
-    width: 90%;
+    width: 100%;
     min-width:56.25rem;
+}
+body {
+    min-width:50rem;
+    max-width:75rem;
+    margin:0 auto;
 }
 
 
