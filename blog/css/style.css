@@ -140,15 +140,10 @@ html {
 
 body {
     margin: 1.5rem auto;
-    width: 100%;
+    width: 90%;
     min-width:56.25rem;
-}
-body {
-    min-width:50rem;
     max-width:75rem;
-    margin:0 auto;
 }
-
 
 /* LAYOUT */
 
