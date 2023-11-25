@@ -108,7 +108,7 @@ main {
     padding-top: 2rem;
 }
 
-main, aside {
+main {
     min-width:39rem;
     max-width:50rem;
 }
