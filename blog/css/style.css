@@ -171,8 +171,10 @@ aside {
     grid-row: 1;
     border-left: 1px solid black;
     padding-left: 1.5rem;
+    /*
     min-width: 18rem;
     max-width: 21rem;
+    */
     text-align: left;
 }
 
