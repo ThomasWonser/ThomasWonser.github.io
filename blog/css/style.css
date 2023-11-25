@@ -224,6 +224,16 @@ nav a {
     color: #023E73;
 }
 
+nav a:focus, nav a:hover {
+    color: #fff;
+    background-color: #33658A;
+}
+
+nav a:active {
+    color: #fff;
+    background-color: #000;
+}
+
 /* FOOTER, COPYRIGHT, AND ATTRIBUTION SECTION */ 
 
 footer {
