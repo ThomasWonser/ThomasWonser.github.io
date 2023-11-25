@@ -108,7 +108,7 @@ main {
     padding-top: 2rem;
 }
 
-main {
+head, nav, main, footer {
     min-width:50rem;
     max-width:75rem;
 }
