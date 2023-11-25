@@ -114,7 +114,9 @@ body {
     margin:0 auto;
 }
 
-aside
+aside {
+    width: 22%;
+}
 
 time {
     font-style: italic;
