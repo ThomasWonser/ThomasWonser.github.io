@@ -108,11 +108,13 @@ main {
     padding-top: 2rem;
 }
 
-header, nav, main, footer, section {
+body {
     min-width:50rem;
     max-width:75rem;
     margin:0 auto;
 }
+
+aside
 
 time {
     font-style: italic;
