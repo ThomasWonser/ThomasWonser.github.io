@@ -173,6 +173,7 @@ aside {
     padding-left: 1.5rem;
     min-width: 15rem;
     max-width: 20rem;
+    text-align: left;
 }
 
 aside p {
