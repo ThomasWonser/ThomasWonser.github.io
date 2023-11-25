@@ -109,8 +109,8 @@ main {
 }
 
 main {
-    min-width:39rem;
-    max-width:50rem;
+    min-width:50rem;
+    max-width:75rem;
 }
 
 time {
