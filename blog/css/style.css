@@ -139,6 +139,7 @@ body {
     width: 90%;
     min-width:56.25rem;
     max-width:80rem;
+    word-spacing: normal;
 }
 
 /* LAYOUT */
