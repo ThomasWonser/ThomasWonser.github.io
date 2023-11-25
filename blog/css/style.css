@@ -142,11 +142,6 @@ body {
     
 }
 
-aside {
-    min-width: 25rem;
-    max-width: 35rem;
-}
-
 /* LAYOUT */
 
 header {
@@ -176,6 +171,8 @@ aside {
     grid-row: 1;
     border-left: 1px solid black;
     padding-left: 1.5rem;
+    min-width: 15rem;
+    max-width: 20rem;
 }
 
 aside p {
