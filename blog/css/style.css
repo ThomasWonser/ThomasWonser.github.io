@@ -142,6 +142,11 @@ body {
     
 }
 
+aside {
+    min-width: 25rem;
+    max-width: 35rem;
+}
+
 /* LAYOUT */
 
 header {
