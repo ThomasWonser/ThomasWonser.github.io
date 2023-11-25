@@ -245,7 +245,7 @@ nav a:active {
 /* FOOTER, COPYRIGHT, AND ATTRIBUTION SECTION */ 
 
 footer {
-    clear:both;
+    /*clear:both;*/
     overflow: auto;
     margin:3% 2%;
 }
