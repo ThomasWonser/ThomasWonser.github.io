@@ -171,8 +171,8 @@ aside {
     grid-row: 1;
     border-left: 1px solid black;
     padding-left: 1.5rem;
-    min-width: 18rem;
-    max-width: 22rem;
+    min-width: 15rem;
+    max-width: 20rem;
 }
 
 aside p {
