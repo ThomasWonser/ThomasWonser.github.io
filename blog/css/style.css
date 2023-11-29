@@ -166,8 +166,10 @@ nav {
 article {
     grid-column: 1/2;
     grid-row: 1;
+    /*
     min-width: 58rem;
     max-width: 58rem;
+    */
 }
 
 aside {
@@ -176,8 +178,10 @@ aside {
     border-left: 1px solid black;
     padding-left: 1.5rem;
     text-align: left;
+    /*
     min-width: 18rem;
     max-width: 18rem;
+    */
 }
 
 aside p {
