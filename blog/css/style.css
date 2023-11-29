@@ -180,18 +180,6 @@ aside {
     max-width: 20rem;
 }
 
-aside>h3 {
-    height: 10%;
-}
-
-aside>p {
-    height: 10%;
-}
-
-aside>img {
-    height: 10%;
-}
-
 aside p {
     border-bottom: 1px solid black;
     padding-bottom: 2.25rem;
