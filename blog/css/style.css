@@ -214,6 +214,11 @@ figure {
 
 .expand {
     font-size: 0.25rem;
+    float: left;
+}
+
+aside>h3 {
+    text-align: left;
 }
 
 /* LINKS AND NAVIGATION*/
