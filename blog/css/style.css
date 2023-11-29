@@ -222,6 +222,10 @@ figure {
     font-size: 0.25rem;
 }
 
+aside>h3 {
+    text-align: top;
+}
+
 /* LINKS AND NAVIGATION*/
 
 a {
