@@ -178,7 +178,10 @@ aside {
     
     min-width: 20rem;
     max-width: 20rem;
-    height: 30%;
+}
+
+aside>h3,p,img {
+    height: 70%;
 }
 
 aside p {
