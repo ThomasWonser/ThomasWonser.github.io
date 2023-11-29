@@ -180,7 +180,15 @@ aside {
     max-width: 20rem;
 }
 
-aside>h3,p,img {
+aside>h3 {
+    height: 5%;
+}
+
+aside>p {
+    height: 5%;
+}
+
+aside>img {
     height: 5%;
 }
 
