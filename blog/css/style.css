@@ -139,7 +139,7 @@ body {
     width: 90%;
     
     min-width:76rem;
-    max-width:76rem;
+    max-width:100rem;
     
     line-height: 1.25rem;
 }
@@ -176,8 +176,8 @@ aside {
     border-left: 1px solid black;
     padding-left: 1.5rem;
     
-    min-width: 18rem;
-    max-width: 18rem;
+    min-width: 20rem;
+    max-width: 20rem;
 }
 
 aside p {
@@ -220,7 +220,7 @@ figure {
 
 .expand {
     font-size: 0.25rem;
-    text-align: left;
+
 }
 
 /* LINKS AND NAVIGATION*/
