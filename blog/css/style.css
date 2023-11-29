@@ -137,8 +137,10 @@ html {
 body {
     margin: 1.5rem auto;
     width: 90%;
-    min-width:81rem;
-    max-width:81rem;
+    /*
+    min-width:82rem;
+    max-width:82rem;
+    */
     line-height: 1.25rem;
 }
 
@@ -164,6 +166,8 @@ nav {
 article {
     grid-column: 1/2;
     grid-row: 1;
+    min-width: 62rem;
+    max-width: 62rem;
 }
 
 aside {
@@ -172,6 +176,8 @@ aside {
     border-left: 1px solid black;
     padding-left: 1.5rem;
     text-align: left;
+    min-width: 20rem;
+    max-width: 20rem;
 }
 
 aside p {
