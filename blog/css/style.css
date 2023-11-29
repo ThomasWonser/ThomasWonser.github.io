@@ -166,7 +166,7 @@ article {
     width: 62rem;
 }
 
-aside {
+aside>h3>p>img {
     grid-column: 2/3;
     grid-row: 1;
     border-left: 1px solid black;
