@@ -183,6 +183,10 @@ aside p {
     display:flex;
 }
 
+nav>span {
+    transform: rotate(5deg);
+}
+
 /* IMAGES AND FIGURES */
 
 img {
@@ -261,6 +265,5 @@ footer a {
 
 .attribution {
     font-size:.75rem;
-    float: right;
     text-align:right;
 }
