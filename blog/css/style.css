@@ -163,7 +163,7 @@ nav {
 article {
     grid-column: 1/2;
     grid-row: 1;
-    width: 60rem;
+    width: 62rem;
 }
 
 aside {
