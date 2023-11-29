@@ -220,10 +220,7 @@ figure {
 
 .expand {
     font-size: 0.25rem;
-}
-
-aside>h3 {
-    text-align: top;
+    text-align: left;
 }
 
 /* LINKS AND NAVIGATION*/
