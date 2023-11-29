@@ -163,7 +163,9 @@ nav {
 article {
     grid-column: 1/2;
     grid-row: 1;
+    /*
     width: 58rem;
+    */
 }
 
 aside {
@@ -171,7 +173,9 @@ aside {
     grid-row: 1;
     border-left: 1px solid black;
     padding-left: 1.5rem;
+    /*
     width: 20rem;
+    */
 }
 
 aside p {
